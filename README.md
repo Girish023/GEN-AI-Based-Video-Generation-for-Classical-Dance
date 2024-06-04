@@ -33,7 +33,6 @@ This project is an innovative fusion of Generative AI and classical dance, speci
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/GEN-AI-Based-Video-Generation-for-Classical-Dance.git
-   cd bharatanatyam-ai
    ```
 
 2. Install dependencies:
